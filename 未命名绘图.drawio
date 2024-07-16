@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-16T09:16:58.717Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4_P75B7scU2IuyoyIHxg" version="24.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-16T09:37:02.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="IDk9miTXvpGwY0cDGFK3" version="24.6.5" type="github">
   <diagram name="第 1 页" id="0kab6wrUSgYUvddVIIdW">
     <mxGraphModel dx="2261" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -14,10 +14,10 @@
           <mxGeometry x="690" y="80" width="170" height="220" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-45" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="380" y="80" width="310" height="140" as="geometry" />
+          <mxGeometry x="390" y="80" width="290" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-44" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#82b366;labelBackgroundColor=none;fillColor=#d5e8d4;" vertex="1" parent="1">
-          <mxGeometry x="211" y="80" width="169" height="140" as="geometry" />
+          <mxGeometry x="211" y="80" width="159" height="140" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-1" value="项目" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;sketch=1;curveFitting=1;jiggle=2;shadow=1;glass=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="40" y="225" width="40" height="40" as="geometry" />
@@ -40,7 +40,7 @@
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-13" value="UI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-14" value="zip" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-14" value="zip" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="310" y="147" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.53;dx=15.67;notch=0;" vertex="1" parent="1">
@@ -49,7 +49,7 @@
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-17" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
           <mxGeometry x="280" y="147" width="30" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-19" value="unzip" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-19" value="unzip" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#ffe6cc;strokeColor=#d79b00;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="406" y="147" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-20" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
@@ -74,7 +74,7 @@
           <mxGeometry x="563" y="177" width="167" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;strokeWidth=2;shape=mxgraph.arrows2.arrow;dy=0.53;dx=15.67;notch=0;" vertex="1" parent="1">
-          <mxGeometry x="680" y="127" width="40" height="20" as="geometry" />
+          <mxGeometry x="674" y="127" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-32" value="镜像" style="shape=tape;whiteSpace=wrap;html=1;strokeWidth=2;size=0.19;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="700" y="370" width="60" height="40" as="geometry" />
@@ -175,26 +175,41 @@
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="4UdTQVk_SUVW9T-Mre9T-59" target="4UdTQVk_SUVW9T-Mre9T-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-78" value="类库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-78" value="组件" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.multi-document;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-100" y="318.13" width="88" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-79" value="类库版本管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-79" value="组件库版本管理" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-65" y="400" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-80" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.56;dx=31;notch=41;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="10" y="320" width="110" height="31.88" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-81" value="脚手架" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="20" y="305" width="60" height="30" as="geometry" />
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-81" value="脚手架初始化" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="305" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-83" value="选择类库" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="340" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4UdTQVk_SUVW9T-Mre9T-85" value="FariyGUI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-85" value="FariyGUI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffff88;strokeColor=#36393d;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="151" y="125" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-87" value="&lt;b&gt;客户端包&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;fillColor=#6a00ff;fontColor=#ffffff;strokeColor=#3700CC;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="474.5" y="308.44" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-88" value="程序工具" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;horizontal=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="262" y="410.63" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-89" value="复制文件&lt;div&gt;到指定位置&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="171" y="285.13" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-91" value="上传" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="350" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-92" value="提交/拉取" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="150" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4UdTQVk_SUVW9T-Mre9T-93" value="提交/拉取" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=3" vertex="1" parent="1">
+          <mxGeometry x="120" y="355" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
