@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-07-17T15:08:48.618Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="18TZNJC6e6czHBn6bhW-" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-18T02:42:06.868Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="O1cq2zqGuBeXW3MAWZ46" version="24.6.5" type="github">
   <diagram name="第 1 页" id="0kab6wrUSgYUvddVIIdW">
-    <mxGraphModel dx="3781" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2261" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PK0cBn9hsgk_69XQHkDE-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;shadow=1;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="PK0cBn9hsgk_69XQHkDE-1" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;shadow=1;strokeWidth=3;" parent="1" vertex="1">
           <mxGeometry x="600" y="275.13" width="200" height="134.87" as="geometry" />
         </mxCell>
         <mxCell id="4UdTQVk_SUVW9T-Mre9T-62" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;labelBackgroundColor=none;fillColor=#ffcccc;strokeColor=#36393d;" parent="1" vertex="1">
@@ -264,6 +264,18 @@
         </mxCell>
         <mxCell id="0yhskQIRhCNUzxytUGEG-17" value="发布" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-55" y="400.94" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="j3FwkMna0czVM7rLRy2b-1" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;SVN" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontStyle=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-127.5" y="110" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j3FwkMna0czVM7rLRy2b-2" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;Git&lt;div&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;fontStyle=1;horizontal=1;sketch=1;curveFitting=1;jiggle=2;shadow=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="110" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="j3FwkMna0czVM7rLRy2b-3" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.65;dx=22;notch=25;rotation=90;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-127.5" y="184.5" width="62.5" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="j3FwkMna0czVM7rLRy2b-4" value="" style="html=1;shadow=1;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.stripedArrow;dy=0.65;dx=22;notch=23.25;rotation=90;sketch=1;curveFitting=1;jiggle=2;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="184.5" width="62.5" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
